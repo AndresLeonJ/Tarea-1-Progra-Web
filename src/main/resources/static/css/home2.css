@@ -44,7 +44,7 @@ nav{
     padding-left: 60px;
     display: inline-block;
     position: relative;
-    left: 75%;
+    left: 1%;
 }
 
 nav ul li{
@@ -78,9 +78,10 @@ nav ul li a{
 }
 
 .fondo{
-    height: 50%;
-   position: absolute;
-    bottom: 65px;
-    right: 655px;
+    width: 450px;
+    height: 40%;
+    position: absolute;
+    bottom: 30px;
+    left: 500px;
 }
 
